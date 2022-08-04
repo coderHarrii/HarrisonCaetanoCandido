@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **HarrisonCaetanoCandido/HarrisonCaetanoCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ My name is Harrison. I currently live in São José dos Campos, Brazil!
     <img alt="Top languages" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonCaetanoCandido&layout=compact&langs_count=16&&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff&count_private=true">
 </div>
 
-### Tools and Languages
-###
+## Tools and Languages
+
 <div syle="display:inline_block"><br>
   <img align="center" alt="Harrison-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Harrison-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
