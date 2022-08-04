@@ -17,7 +17,6 @@ My name is Harrison. I currently live in São José dos Campos, Brazil!
 </div>
 
 ### Tools and Languages
-  
 ##
   
 <div syle="display:inline_block"><br>
