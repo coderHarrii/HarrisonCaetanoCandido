@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 My name is Harrison. I currently live in São José dos Campos, Brazil!
 
-- 👨‍💻 I´m learning Java and Javascript
+- 👨‍💻 I´m learning Java and Python
 - 🔭 Looking to collaborate on web development projects to enlarge my knowledge about other technologies ...
 - 🎓 Studying Computer Science at ICT Unifesp
 
