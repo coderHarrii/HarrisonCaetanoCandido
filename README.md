@@ -25,6 +25,6 @@ My name is Harrison. I currently live in São José dos Campos, Brazil!
 <br>
 <div>
   <a href="https://github.com/HarrisonCaetanoCandido">
-  <img alt="Github-stats" height="180cm" src="https://github-readme-stats.vercel.app/api?username=HarrisonCaetanoCandido&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true">
-    <img alt="Top languages" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarrisonCaetanoCandido&layout=compact&langs_count=16&&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff&count_private=true">
+  <img alt="Github-stats" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HarrisonCaetanoCandido&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true">
+    <img alt="Top languages" height="180cm" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HarrisonCaetanoCandido&layout=compact&langs_count=16&&show_icons=true&bg_color=30,904e95,e96443&title_color=fff&text_color=fff&icon_color=fff&count_private=true">
 </div>
