@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 My name is Harrison. I currently live in São José dos Campos, Brazil!
 
-- 👨‍💻 I´m actualy working with Django
+- 👨‍💻 I´m actualy working with Django Framework
 - 🎓 Studying Computer Science at ICT Unifesp
 
 ## Tools and Languages
