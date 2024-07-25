@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**HarrisonCaetanoCandido/HarrisonCaetanoCandido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-My name is Harrison. I currently live in São José dos Campos, Brazil!
+My name is Harri.
 
 - 👨‍💻 I'm currently working with Django Framework
 - 🎓 Studying Computer Science at ICT Unifesp
